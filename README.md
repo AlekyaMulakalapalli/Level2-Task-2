@@ -1,4 +1,3 @@
-![image](https://github.com/AlekyaMulakalapalli/Level2-Task-2/assets/131239545/dc4d194d-7cfd-40e3-a5ac-70a9d0b29fe1)## Oasis Infobyte Internship Level-2 Task-2
    This is a simple tribute webpage of APJ Abdul Kalam Sir.
 
 ## BUILT WITH
